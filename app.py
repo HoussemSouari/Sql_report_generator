@@ -94,9 +94,9 @@ root = tk.Tk()
 root.title("SQL to Report Generator")
 
 # Database connection details (adjust as needed)
-host = '127.0.0.1'
-user = 'root'
-password = '240622hssqlIT300'
+host = 'localhost'
+user = 'username'
+password = 'password'
 
 # Fetch the list of databases
 databases = get_database_list(host, user, password)

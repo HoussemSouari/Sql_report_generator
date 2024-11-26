@@ -31,5 +31,5 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sql-report-generator.git
-   cd sql-report-generator
+   git clone https://github.com/HoussemSouari/Excel-Json-Csv_sql_report_generator.git
+   cd Excel-Json-Csv_sql_report_generator
